@@ -1,4 +1,4 @@
-h1 align="left">
+<h1 align="left">
   Hash-Identifier-JS
 </H1>
 
